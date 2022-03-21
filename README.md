@@ -1,5 +1,3 @@
 # git-training
 #main branch_1
-#update from b2
-
-
+#update from b4
